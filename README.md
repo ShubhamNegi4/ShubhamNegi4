@@ -1,5 +1,4 @@
 ### Hi Geek!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=shivam-bhadani" alt = "shivam-bhadani" /> </p>
 
 - 👋 I’m Shubham Negi, 2026 graduate.
 - 💻 I love doing competitive programming and learning new algorithms.
