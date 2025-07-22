@@ -9,6 +9,7 @@
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-negi-a6b70b248/)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://x.com/ShubhamNegi2193)
+[<img src="https://img.shields.io/badge/Portfolii-View%20My%20Portfolio-blue?style=for-the-badge&logo=adobe-portfolio&logoColor=white" />](https://portfolio-n-three.vercel.app/)
 
   
 ### My Coding Profiles
@@ -16,4 +17,3 @@
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/errr_4)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/lvl100_pikachu/)
 [<img src="https://img.shields.io/badge/Atcoder-298D46?style=for-the-badge&logo=Atcoder&logoColor=white" />](https://atcoder.jp/users/Letmehandle)
-[<img src="https://img.shields.io/badge/Portfolii-View%20My%20Portfolio-blue?style=for-the-badge&logo=adobe-portfolio&logoColor=white" />](https://portfolio-n-three.vercel.app/)
