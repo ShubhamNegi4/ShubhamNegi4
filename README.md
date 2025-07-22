@@ -1,4 +1,4 @@
-### Hi Geek!! 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3ec8661d-6d5c-41ce-a9a8-66e84a8be1d2" />### Hi Geek!! 
 
 - 👋 I’m Shubham Negi, 2026 graduate.
 - 💻 I love doing competitive programming and learning new algorithms.
@@ -16,3 +16,4 @@
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/errr_4)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/lvl100_pikachu/)
 [<img src="https://img.shields.io/badge/Atcoder-298D46?style=for-the-badge&logo=Atcoder&logoColor=white" />](https://atcoder.jp/users/Letmehandle)
+[<img src="https://img.shields.io/badge/Portfolii-View%20My%20Portfolio-blue?style=for-the-badge&logo=adobe-portfolio&logoColor=white" /> (https://portfolio-n-three.vercel.app/)]
