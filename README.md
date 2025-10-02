@@ -1,7 +1,7 @@
 ### Hi Geek!! 
 
 - 👋 I’m Shubham Negi, 2026 graduate.
-- 💻 I love doing competitive programming and learning new algorithms.
+- 💻 I love doing competitive programming, building backend systems, and low-level development.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobby -  Movies, Anime, Competitive gaming
 - 📫 You can contact me through email - snegi4260@gmail.com
